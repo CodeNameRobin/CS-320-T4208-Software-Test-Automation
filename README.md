@@ -1,11 +1,33 @@
 # CS-320-T4208-Software-Test-Automation
 
--How can I ensure that my code, program, or software is functional and secure?
--How do I interpret user needs and incorporate them into a program?
--How do I approach designing software?
+## Project Overview
 
-I can ensure that the project that I am working on is functinal and secure by using software testing techneques gathered in this class, like unit testing, intigration testing, regrestion testing, etc. Ensuring it works the way it sould and responds properly is a good starting ground for making sure that code, a program, or software is functional and secure.
+This project focuses on software testing, automation, and quality assurance practices using unit testing and software validation techniques. The goal of the project was to develop reliable and maintainable software while applying testing methodologies to improve functionality, stability, and security.
 
-The best way to interperet user needs is to study them carefuly and follow them exactly as stated. Asking questions and refining needs and requrments as the project goes along and more infromation is available. 
+## Technologies Used
+- Java
+- JUnit
+- Object-Oriented Programming
+- Software Testing & QA
 
-The best way that I have found to approach designing software is by look at the big picture first to know what exaclty you are trying to acomplish in the end. Then breaking down what needs to be done into smaller more manigable peices. Having direction to what you are doing, as in diagrams and requirment documents also helps in this. Then it is simply building the program peice by peice.
+## Concepts Demonstrated
+- Unit Testing
+- Integration Testing
+- Regression Testing
+- Test Automation
+- Debugging & Validation
+- Software Design Principles
+
+## Reflection
+
+### Ensuring Functional and Secure Software
+
+This project reinforced the importance of software testing in developing functional and reliable applications. By applying unit testing, integration testing, and regression testing techniques, I was able to validate application behavior, identify issues early, and improve software stability and maintainability.
+
+### Interpreting User Needs
+
+Understanding user requirements is an important part of software development. This project emphasized the value of carefully analyzing project requirements, refining functionality through testing, and ensuring the final application behaved as expected based on user and system needs.
+
+### Software Design Approach
+
+My approach to software design begins by understanding the overall objective of the application and breaking larger problems into smaller, manageable components. Planning application structure, functionality, and testing strategies before development helped create a more organized and maintainable solution.
